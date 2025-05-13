@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://tusitio.com/sitemap.xml
+Disallow:
+Sitemap: https://Raimundo2110.github.io/herramientas-online/sitemap.xml
